@@ -1,0 +1,179 @@
+*, html {
+
+    scroll-behavior: smooth !important;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    background-image: url("../assets/images/Sfondo.jpg");
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+
+}
+
+#historyAnchor {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+#writingMachinesAnchor {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+#computerAnchor {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#arduinoAnchor
+{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#experienceAnchor {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#experience
+{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.hidden {
+    opacity: 0;
+    transform: translateX(100%);
+}
+
+
+
+#camilloOlivettiImage
+{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
+
+}
+
+#adrianoOlivettiImage
+{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
+}
+
+#oggiImage
+{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
+}
+
+#lettera22Image
+{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
+}
+
+#valentineImage{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
+}
+
+#programma101Image
+{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
+}
+
+#divisumma14Image
+{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
+}
+
+#eleaImage
+{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
+}
+
+#arduinoImage
+{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
+}
+
+#pulmannImage
+{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
+}
+
+#sawPrinter
+{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
+}
+#fiumeImage
+{
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 5px;
+    max-width: 100%;
+    height: auto;
+    filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
+}
+
