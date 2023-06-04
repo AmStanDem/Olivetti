@@ -79,6 +79,12 @@ body {
     filter: drop-shadow(10px 10px 10px rgba(0 , 0 , 0 , 0.61));
 }
 
+#macchineDaScrivere
+{
+    width: 1000px;
+    height: 1000px;
+}
+
 #oggiImage
 {
     border: 1px solid;
