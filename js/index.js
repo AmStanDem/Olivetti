@@ -37,7 +37,7 @@ let count1 = count2 = count3 = count4 = 0;
 const objOptions =
     { // optioni dell'observer
     root: null,
-    threshold: 0.25,
+    threshold: 0.35,
     rootMargin: "0px 0px -50%",
 };
 
