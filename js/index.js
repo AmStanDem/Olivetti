@@ -52,7 +52,7 @@ sectionObserverCamilloOlivetti.observe(sectionCamilloOlivetti);
 
 function callBackFunctionCamilloOlivetti(entries) {
     const [entry] = entries;
-    if (entry.isIntersecting)
+    if (entry.isIntersecting === true)
     {
         paragraphCamilloOlivetti.classList.remove("hidden");
         if (count1 === 0)
