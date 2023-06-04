@@ -37,8 +37,8 @@ let count1 = count2 = count3 = count4 = 0;
 const objOptions =
     { // optioni dell'observer
     root: null,
-    threshold: 0.40,
-    rootMargin: "0px 0px -60%",
+    threshold: 1.0,
+    rootMargin: "0px",
 };
 
 const objOptionsCamilloOlivetti = {
@@ -47,7 +47,7 @@ const objOptionsCamilloOlivetti = {
     rootMargin: "0px 0px -50%",
 };
 
-const sectionObserverCamilloOlivetti = new IntersectionObserver(callBackFunctionCamilloOlivetti, objOptionsCamilloOlivetti);
+const sectionObserverCamilloOlivetti = new IntersectionObserver(callBackFunctionCamilloOlivetti, objOptions);
 sectionObserverCamilloOlivetti.observe(sectionCamilloOlivetti);
 
 function callBackFunctionCamilloOlivetti(entries) {
