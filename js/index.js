@@ -38,7 +38,7 @@ const objOptions =
     { // optioni dell'observer
     root: null,
     threshold: 0.35,
-    rootMargin: "0px 0px -50%",
+    rootMargin: "0px 0px -60%",
 };
 
 const objOptionsCamilloOlivetti = {
