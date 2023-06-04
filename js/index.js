@@ -41,7 +41,13 @@ const objOptions =
     rootMargin: "0px 0px -50%",
 };
 
-const sectionObserverCamilloOlivetti = new IntersectionObserver(callBackFunctionCamilloOlivetti, objOptions);
+const objOptionsCamilloOlivetti = {
+    root: null,
+    threshold: 0.30,
+    rootMargin: "0px 0px -50%",
+};
+
+const sectionObserverCamilloOlivetti = new IntersectionObserver(callBackFunctionCamilloOlivetti, objOptionsCamilloOlivetti);
 sectionObserverCamilloOlivetti.observe(sectionCamilloOlivetti);
 
 function callBackFunctionCamilloOlivetti(entries) {
